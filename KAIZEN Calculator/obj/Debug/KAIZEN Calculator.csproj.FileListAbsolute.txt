@@ -1,0 +1,18 @@
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\bin\Debug\KAIZEN Calculator.exe.config
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\bin\Debug\KAIZEN Calculator.exe
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\bin\Debug\KAIZEN Calculator.pdb
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN Calculator.csproj.AssemblyReference.cache
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN_Calculator.Corporate_Social_Responsibility_Form.resources
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN_Calculator.Employee_form.resources
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN_Calculator.Financial_Perspective_Form.resources
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN_Calculator.Form1.resources
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN_Calculator.Marketing_and_Sales_Perspective.resources
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN_Calculator.Operational_Form.resources
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN_Calculator.Properties.Resources.resources
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN Calculator.csproj.GenerateResource.cache
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN Calculator.exe
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN Calculator.pdb
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN_Calculator.frmCustomer.resources
+C:\Users\Sean__38\Desktop\GitHub Projects\C#\KAIZEN\KAIZEN Calculator\obj\Debug\KAIZEN_Calculator.Gross_Profit_Margin_form.resources
